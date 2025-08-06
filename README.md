@@ -1,16 +1,44 @@
-# bmi_calculator
+# BMI Calculator 🧮💪
 
-A new Flutter project.
+A simple and modern BMI (Body Mass Index) calculator app built using Flutter. It allows users to select their gender, adjust height and weight, and calculate their BMI to understand if they are underweight, normal, or overweight.
 
-## Getting Started
+## 🖼️ Screenshots
+<!-- Add screenshots of your app here -->
+![Home Screen](screenshots/home.png)
+![Result Screen](screenshots/result.png)
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Select gender (Male / Female)
+- Adjust height using a slider
+- Increase/decrease weight and age
+- Calculate BMI and see result details
+- Responsive UI with clean design
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📱 Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** 🐦
+- **Dart** 💙
+- Material Design Components
+
+## 🧠 How BMI is Calculated
+
+> **BMI = weight (kg) / (height (m))²**
+
+BMI is a measure of body fat based on height and weight that applies to adult men and women.
+
+### BMI Categories:
+
+| Category       | BMI Range |
+|----------------|-----------|
+| Underweight    | < 18.5    |
+| Normal weight  | 18.5–24.9 |
+| Overweight     | 25–29.9   |
+| Obese          | ≥ 30      |
+
+## 📦 Installation
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/your-username/bmi_calculator.git
+   cd bmi_calculator
