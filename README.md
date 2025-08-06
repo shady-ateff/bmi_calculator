@@ -3,8 +3,11 @@
 A simple and modern BMI (Body Mass Index) calculator app built using Flutter. It allows users to select their gender, adjust height and weight, and calculate their BMI to understand if they are underweight, normal, or overweight.
 
 ## 🖼️ Screenshots
-<!-- Add screenshots of your app here -->
-[Home Screen](screenshots/home.png) [Result Screen](screenshots/result.png)
+
+<p float="left">
+  <img src="screenshots/home.png" width="45%" />
+  <img src="screenshots/result.png" width="45%" />
+</p>
 
 ## 🚀 Features
 
